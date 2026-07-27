@@ -1,7 +1,6 @@
 ## Hi there 👋
-
+[![Image of https://github.com/CoalaVerde/views-counter](https://github.com/CoalaVerde/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/CoalaVerde/views-counter)
 ## 🐍 My Contributions
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoalaVerde/CoalaVerde/output/github-contribution-grid-snake-dark.svg" />
