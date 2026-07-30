@@ -8,7 +8,15 @@
   </picture>
 </div>
 <hr>
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,github-actions,arch,linux,windows,plan9,blender,docker,tailscale,bash" />
+</a>
+</p>
+<p float="right">
 <img alt="visits counter" src="https://count.getloli.com/@coalaverde-readme?name=coalaverde-readme&theme=sketch-1&padding=5&offset=-10&align=top&scale=0.3&pixelated=0&darkmode=auto&prefix=0" />
+</p>
+
 <!--
 **CoalaVerde/CoalaVerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
