@@ -8,6 +8,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/CoalaVerde/CoalaVerde/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+<img alt="visits counter" src="https://count.getloli.com/@coalaverde-readme?name=coalaverde-readme&theme=sketch-1&padding=5&offset=-10&align=bottom&scale=0.3&pixelated=0&darkmode=auto&prefix=0" />
 <hr>
 
 <!--
